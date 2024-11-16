@@ -8,6 +8,7 @@
 | ---- | ------ |
 | [GXDE OS Adjustment](https://samwhelp.github.io/gxde-adjustment/) | [GitHub](https://github.com/samwhelp/gxde-adjustment) |
 | [GXDE OS 探索筆記](https://samwhelp.github.io/note-about-gxde/) | [GitHub](https://github.com/samwhelp/note-about-gxde) |
+| [GXDE ISO Builder 探索筆記](https://samwhelp.github.io/note-about-gxde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-gxde-iso-builder) |
 
 
 
