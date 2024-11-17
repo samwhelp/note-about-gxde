@@ -16,6 +16,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [如何](#如何)
 * [連結](read/link)
 * [相關筆記](#相關筆記)
 
@@ -27,6 +28,15 @@
 | 微調腳本 |
 | -------- |
 | [GXDE OS](https://github.com/samwhelp/gxde-adjustment/tree/main/prototype/main) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-gxde/howto.html) |
+| ----------- |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-gxde/read/howto/config-mouse-button-modifier.html) |
 
 
 
