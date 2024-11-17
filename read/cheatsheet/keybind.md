@@ -58,13 +58,14 @@ parent: 一覽表
 
 | 按鍵組合           | 功能                                    | 執行指令                   |
 | ------------------ | --------------------------------------- | -------------------------- |
-| `Alt + Shift + x`  | 顯示「離開系統選單」                    | `dde-shutdown`          |
-| `Alt + Shift + l`  | 鎖住螢幕                                | `gxde-screenlocker`      |
+| `Alt + Shift + z`  | 顯示「離開系統選單」                    | `dde-shutdown`             |
+| `Alt + Shift + x`  | 顯示「離開系統選單」                    | `dde-shutdown`             |
+| `Alt + Shift + l`  | 鎖住螢幕                                | `dde-lock`                 |
 | `Win + d`          | 切換「顯示桌面」                        | `Show Desktop=`            |
 | `Win + grave`      | 顯示「工作空間選單」                    | `ShowDesktopGrid=`         |
 | `Win + Tab`        | 切換「顯示目前工作空間的所有視窗預覽」  | `Expose=`                  |
 | `Win + c`          | 顯示「所有開啟視窗預覽」                | `ExposeAll=`               |
-| `Alt + F1`         | 顯示「應用程式啟動選單」                | `gxde-launcher`          |
+| `Alt + F1`         | 顯示「應用程式啟動選單」                |                            |
 | `Alt + F3`         | 顯示「視窗操作選單」                    | `Window Operations Menu=`  |
 | `Alt + Space`      | 顯示「視窗操作選單」                    | `Window Operations Menu=`  |
 
@@ -83,8 +84,8 @@ parent: 一覽表
 
 | 按鍵組合           | 功能           | 執行指令           |
 | ------------------ | -------------- | ------------------ |
-| `Alt + Enter`      | 開啟 Terminal  | `gxde-terminal`  |
-| `Alt + Shift + a`  | 開啟 Terminal  | `gxde-terminal`  |
+| `Alt + Enter`      | 開啟 Terminal  | `gxde-terminal`    |
+| `Alt + Shift + a`  | 開啟 Terminal  | `gxde-terminal`    |
 | `Alt + Ctrl + a`   | 開啟 Terminal  | `sakura`           |
 | `Alt + Shift + t`  | 開啟 Terminal  | `xfce4-terminal`   |
 | `Alt + Ctrl + t`   | 開啟 Terminal  | `qterminal`        |
@@ -96,11 +97,11 @@ parent: 一覽表
 
 | 按鍵組合           | 功能            | 執行指令                         |
 | ------------------ | --------------- | -------------------------------- |
-| `Alt + Shift + f`  | 開啟檔案管理器  | `dde-file-manager`             |
+| `Alt + Shift + f`  | 開啟檔案管理器  | `dde-file-manager`               |
 | `Alt + Shift + g`  | 開啟檔案管理器  | `pcmanfm-qt`                     |
-| `Alt + Shift + e`  | 開啟文字編輯器  | `gxde-editor`              |
+| `Alt + Shift + e`  | 開啟文字編輯器  | `gxde-editor`                    |
 | `Alt + Shift + b`  | 開啟網頁瀏覽器  | `firefox --new-tab about:blank`  |
-| `Alt + Shift + s`  | 開啟系統設定    | `dde-control-center -t`                |
+| `Alt + Shift + s`  | 開啟系統設定    | `dde-control-center -t`          |
 
 
 
