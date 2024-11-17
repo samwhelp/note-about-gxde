@@ -27,7 +27,7 @@
 
 | 微調腳本 |
 | -------- |
-| [GXDE OS](https://github.com/samwhelp/gxde-adjustment/tree/main/prototype/main) |
+| [GXDE OS Config](https://github.com/samwhelp/gxde-adjustment/tree/main/prototype/main/gxde-config/locale/en_us) |
 
 
 | 設定案例 |
