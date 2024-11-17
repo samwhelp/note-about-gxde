@@ -23,6 +23,27 @@ has_children: true
 
 
 
+## Repository
+
+| GXDE |
+| ---- |
+| Gitee / [GXDE-OS](http://gitee.com/GXDE-OS) |
+| Github / [GXDE-OS](http://github.com/GXDE-OS) |
+| Gitcode / [GXDE-OS](https://gitcode.com/GXDE-OS) |
+
+
+
+
+## People
+
+| gfdgd-xi |
+| -------- |
+| Gitee / [gfdgd-xi](https://gitee.com/gfdgd-xi) |
+| Github / [gfdgd-xi](https://github.com/gfdgd-xi) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://just-the-docs.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
