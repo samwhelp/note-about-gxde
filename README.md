@@ -30,6 +30,12 @@
 | [GXDE OS](https://github.com/samwhelp/gxde-adjustment/tree/main/prototype/main) |
 
 
+| 設定案例 |
+| ------- |
+| gxde-iso-builder-remix / asset / [overlay](https://github.com/samwhelp/gxde-iso-builder-remix/tree/main/asset/overlay) |
+| gxde-iso-builder-refactoring / asset / [overlay](https://github.com/samwhelp/gxde-iso-builder-refactoring/tree/main/asset/overlay) |
+
+
 
 
 ## 如何
