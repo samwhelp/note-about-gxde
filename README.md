@@ -34,6 +34,7 @@
 | ------- |
 | gxde-iso-builder-remix / asset / [overlay](https://github.com/samwhelp/gxde-iso-builder-remix/tree/main/asset/overlay) |
 | gxde-iso-builder-refactoring / asset / [overlay](https://github.com/samwhelp/gxde-iso-builder-refactoring/tree/main/asset/overlay) |
+| gxde-iso-builder-enhance / asset / [overlay](https://github.com/samwhelp/gxde-iso-builder-enhance/tree/main/asset/overlay) |
 
 
 
