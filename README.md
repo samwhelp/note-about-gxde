@@ -41,7 +41,7 @@
 
 ## 如何
 
-| [如何](https://samwhelp.github.io/note-about-gxde/howto.html) |
+| [如何](https://samwhelp.github.io/note-about-gxde/read/howto.html) |
 | ----------- |
 | [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-gxde/read/howto/config-mouse-button-modifier.html) |
 
