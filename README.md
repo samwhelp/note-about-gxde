@@ -11,6 +11,9 @@
 | [GXDE ISO Builder 探索筆記](https://samwhelp.github.io/note-about-gxde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-gxde-iso-builder) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-gxde/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
@@ -57,7 +60,8 @@
 | [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
 | [Kde Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
 | [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
-
+| [Lingmo OS 探索筆記](https://samwhelp.github.io/note-about-lingmo/) | [GitHub](https://github.com/samwhelp/note-about-lingmo) |
+| [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) | [GitHub](https://github.com/samwhelp/note-about-nitrux) |
 
 
 
